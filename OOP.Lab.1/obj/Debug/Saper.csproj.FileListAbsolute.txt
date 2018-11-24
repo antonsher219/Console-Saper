@@ -1,0 +1,10 @@
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\bin\Debug\OOP.Lab.1.exe.config
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\bin\Debug\OOP.Lab.1.exe
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\bin\Debug\OOP.Lab.1.pdb
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\obj\Debug\OOP.Lab._1.Form1.resources
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\obj\Debug\Saper.csproj.CopyComplete
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\obj\Debug\OOP.Lab.1.exe
+C:\Users\batem\source\repos\OOP.Lab.1\OOP.Lab.1\obj\Debug\OOP.Lab.1.pdb
